@@ -1,1 +1,1 @@
-<img src="/isocalendar.svg" alt="Metrics" width="100%">
+<img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="100%">
