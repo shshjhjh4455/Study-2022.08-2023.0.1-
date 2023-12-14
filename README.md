@@ -1,13 +1,10 @@
 <a href="https://shshjhjh4455.github.io/about">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&animation=fadeIn&height=200&section=header&text=Gyeongmin%20Lee&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&animation=fadeIn&height=200&section=header&text=jeonghyeon%20Lee&fontSize=90" />
 </a>
 
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
-    <a href="mailto:shshjhjh4455@hansung.ac.kr" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Mail" height="36" width="36"/>
-    </a>
     &nbsp;
     <a href="https://instagram.com/shshjhjh4455x" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="36" width="36"/>
