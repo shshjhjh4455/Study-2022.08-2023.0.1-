@@ -12,7 +12,7 @@ jobs:
       with:
         filename: metrics.plugin.topics.icons.svg
         token: NOT_NEEDED
-        base: ""
+        base: "python, django, docker, sql, firebase, pytorch,javascript"
         plugin_topics: yes
         plugin_topics_limit: 0
         plugin_topics_mode: icons
