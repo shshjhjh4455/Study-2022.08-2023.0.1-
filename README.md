@@ -1,5 +1,5 @@
 <a href="https://shshjhjh4455.github.io/about">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&animation=fadeIn&height=200&section=header&text=jeonghyeon%20Lee&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&animation=fadeIn&height=200&section=header&text=jeonghyeon%20Park&fontSize=90" />
 </a>
 
 <h3 align="left">Connect with me</h3>
