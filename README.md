@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm jeonghyeon Park</h1>
 <h3 align="center">DL student</h3>
 
-- 🔭 I’m currently working on [hotel_assistant](https://github.com/shshjhjh4455/hotel_assistant)
 
-- 🌱 I’m currently learning **action recognition**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
